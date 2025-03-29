@@ -8,7 +8,7 @@ public class Germany {
     }
 
     public void countryGermany(){
-        System.out.println("Мамлекеттин аты " + name + " жашаган адамдардын саны " + numbers + " миллиондон кобуроок ");
+        System.out.println("Мамлекеттин аты " + name + " жашаган адамдардын саны " + numbers + " миллиондон кобуроок");
     }
 
 
